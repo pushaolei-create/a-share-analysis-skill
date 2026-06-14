@@ -1,0 +1,4 @@
+interface:
+  display_name: "A¹É·ÖÎö"
+  short_description: "Analyze A-share market trends, sectors, and listed stocks"
+  default_prompt: "Use $a-share-analysis to analyze the current A-share market and a listed stock with risks and catalysts."
