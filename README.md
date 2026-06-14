@@ -9,6 +9,16 @@ Codex skill for mainland China A-share market analysis, sector rotation analysis
 - `references/data_and_compliance.md`: source selection and compliance notes
 - `references/trading_playbook.md`: distilled short-term trading playbook
 - `scripts/build_report.py`: Markdown report builder from structured JSON
+- `SKILL.md`: the core skill entry point
+- `references/analysis_framework.md`: market, sector, and single-stock analysis framework
+- `references/data_and_compliance.md`: source selection and compliance notes
+- `references/trading_playbook.md`: distilled short-term trading playbook
+- `scripts/build_report.py`: Markdown report builder from structured JSON
+
+## Environment Setup
+Make sure to install the required dependencies for the quantitative engine:
+```bash
+pip install -r requirements.txt
 
 ## Main Capabilities
 
